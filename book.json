@@ -1,6 +1,6 @@
 {
     "root": "./docs",
-    "plugins": ["theme-api","sitemap","mathjax"],
+    "plugins": ["theme-api","sitemap","mathjax","autocover"],
     "pluginsConfig": {
         "theme-api": {
             "theme": "dark"
