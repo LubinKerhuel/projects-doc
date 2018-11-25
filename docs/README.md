@@ -2,4 +2,4 @@
 website documentation for custom projects
 
 test equations 
-$\frac{1}{x} = \pi$
+$$\frac{1}{x} = \pi$$
