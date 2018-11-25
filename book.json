@@ -1,0 +1,13 @@
+{
+    "plugins": ["theme-api"]
+}
+To use the Dark theme by default:
+
+{
+    "plugins": ["theme-api"],
+    "pluginsConfig": {
+        "theme-api": {
+            "theme": "dark"
+        }
+    }
+}
